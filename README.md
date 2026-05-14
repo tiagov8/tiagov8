@@ -30,6 +30,6 @@ You can also check out my Instagram [@tiagov8](http://instagram.com/tiagov8) for
 
 ## GitHub Stats
 
-![Tiago's GitHub stats](https://github-readme-stats-rust-eight-gqby7av9in.vercel.app//api?username=tiagov8&show_icons=true&theme=transparent)
+![Tiago's GitHub stats](https://github-readme-stats-rust-eight-gqby7av9in.vercel.app/api?username=tiagov8&show_icons=true&bg_color=ffffff&title_color=111827&text_color=374151&icon_color=2563eb&border_color=e5e7eb&border_radius=12)
 
-![Top Langs](https://github-readme-stats-rust-eight-gqby7av9in.vercel.app//api/top-langs?username=tiagov8&layout=compact&theme=transparent)
+![Top Langs](https://github-readme-stats-rust-eight-gqby7av9in.vercel.app/api/top-langs?username=tiagov8&layout=compact&bg_color=ffffff&title_color=111827&text_color=374151&border_color=e5e7eb&border_radius=12)
