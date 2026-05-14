@@ -28,4 +28,6 @@ You can also check out my Instagram [@tiagov8](http://instagram.com/tiagov8) for
 
 ---
 
-[![Tiago's github stats](https://github-readme-stats.vercel.app/api?username=tiagov8)](https://github.com/tiagov8/github-readme-stats)
+![Tiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiagov8&show_icons=true&theme=transparent)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiagov8&layout=compact&theme=transparent)
