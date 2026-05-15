@@ -7,15 +7,14 @@ At [SSW](https://www.ssw.com.au), I design functional, eye-catching digital proj
 
 ### Skills and Experience 🚀
 
-* Web & App Interface Design
+* Web & App UI Design
 * UX & Usability
-* Styling & Content Markup
-* Copywriting
+* HTML, CSS & Content Markup
+* AI-Assisted Front-End Development
 * Content Management Systems ([TinaCMS](https://tina.io) & WordPress)
+* Copywriting
 * Search Engine Optimization (SEO)
-* Social Media Marketing
-* Graphic Design
-* Identity & Branding
+* Graphic Design, Visual Identity & Branding
 * Image & Video Editing
 
 I am a Scrum Master and have experience working with Agile methodologies and implementing [best practices in Software Development](https://www.ssw.com.au/rules).
